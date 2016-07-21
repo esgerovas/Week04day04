@@ -1,0 +1,36 @@
+#about{
+	background-image:url(../images/bg.png);
+	color:white;
+	
+	.row{
+		padding-top:25px;
+		h2{
+			font-weight:700;
+		}
+	}
+
+	i{
+		border-radius: 50%;
+		border:1px solid $blue;
+		height:35px;
+		width:35px;
+		display: inline-block;
+		padding:10px;
+		color:$blue;
+	}
+
+	img{
+		width: 100%;
+		margin-bottom: -16px;
+	}
+	ul{
+		list-style-type: none;
+		padding:0;
+
+	}
+	li{
+		
+		line-height: 50px;
+		font-weight: 700;
+	}
+}
