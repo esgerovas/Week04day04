@@ -1,0 +1,38 @@
+#static .col-md-6{
+--width:44%;
+--height:300px;
+
+}
+#static .margin{
+	--margin-left: 30px;
+}
+#static .margin2{
+	padding: 0 10px;
+}
+#static {
+	--margin-left: 5px;
+	padding:30px 0;
+}
+#static .col-md-4 div{
+	padding:20px 0;
+	height: 135px;
+	--width: 30%;
+	background-color:#31A3DD;
+}
+#static .marginTop{
+	margin-top:10px;
+}
+
+#static .col-md-4 h1{
+	text-align: center;
+	--margin-top: 40px;
+	color:white;
+}
+#static .col-md-4 h6{
+	text-align: center;
+	--margin-top: 10px;
+	color:white;
+}
+#static i{
+	margin-left: 250px;
+}
